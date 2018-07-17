@@ -1,0 +1,6 @@
+c:\users\mateo\documents\visual studio 2015\Projects\AvinodeXMLParser\AvinodeXMLParser\bin\Debug\AvinodeXMLParser.exe.config
+c:\users\mateo\documents\visual studio 2015\Projects\AvinodeXMLParser\AvinodeXMLParser\obj\Debug\AvinodeXMLParser.csprojResolveAssemblyReference.cache
+c:\users\mateo\documents\visual studio 2015\Projects\AvinodeXMLParser\AvinodeXMLParser\bin\Debug\AvinodeXMLParser.exe
+c:\users\mateo\documents\visual studio 2015\Projects\AvinodeXMLParser\AvinodeXMLParser\bin\Debug\AvinodeXMLParser.pdb
+c:\users\mateo\documents\visual studio 2015\Projects\AvinodeXMLParser\AvinodeXMLParser\obj\Debug\AvinodeXMLParser.exe
+c:\users\mateo\documents\visual studio 2015\Projects\AvinodeXMLParser\AvinodeXMLParser\obj\Debug\AvinodeXMLParser.pdb

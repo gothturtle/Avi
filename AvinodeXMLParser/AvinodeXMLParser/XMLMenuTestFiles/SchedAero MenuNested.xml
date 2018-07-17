@@ -1,0 +1,78 @@
+<menu>
+	<item>
+		<displayName>Home</displayName>
+		<path value="/Default.aspx"/>
+	</item>
+	<item>
+		<displayName>Trips</displayName>
+		<path value="/Requests/Quotes/CreateQuote.aspx"/>
+		<subMenu>
+			<item>
+				<displayName>Create Quote</displayName>
+				<path value="/Requests/Quotes/CreateQuote.aspx"/>
+			</item>
+			<item>
+				<displayName>Open Quotes</displayName>
+				<path value="/Requests/OpenQuotes.aspx"/>
+			</item>
+			<item superOverride="true">
+				<displayName>Scheduled Trips</displayName>
+				<path value="/Requests/Trips/ScheduledTrips.aspx"/>
+				<subMenu>
+					<item>
+						<displayName>Scheduled 1</displayName>
+						<path value="/Requests/Trips/ScheduledTrips1.aspx"/>
+					</item>
+					<item>
+						<displayName>Scheduled 2</displayName>
+						<path value="/Requests/Trips/ScheduledTrips2.aspx"/>
+								<subMenu>
+									<item>
+										<displayName>Scheduled 2's first</displayName>
+										<path value="/Requests/Trips/ScheduledTrips21.aspx"/>
+									</item>
+									<item>
+										<displayName>Scheduled 2's second</displayName>
+										<path value="/Requests/Trips/ScheduledTrips22.aspx"/>
+									</item>									<item>
+										<displayName>Scheduled 2's third</displayName>
+										<path value="/Requests/Trips/ScheduledTrips23.aspx"/>
+									</item>									<item>
+										<displayName>Scheduled 2's fourth</displayName>
+										<path value="/Requests/Trips/ScheduledTrips24.aspx"/>
+									</item>									<item>
+										<displayName>Scheduled 2's fifth</displayName>
+										<path value="/Requests/Trips/ScheduledTrips25.aspx"/>
+									</item>									<item>
+										<displayName>Scheduled 2's sixth</displayName>
+										<path value="/Requests/Trips/ScheduledTrips26.aspx"/>
+									</item>
+								</subMenu>
+					</item>
+					<item superOverride="true">
+						<displayName>Scheduled 3</displayName>
+						<path value="/Requests/Trips/ScheduledTrips3.aspx"/>
+					</item>
+				</subMenu>
+			</item>
+		</subMenu>
+	</item>
+	<item>
+		<displayName>Company</displayName>
+		<path value="/mvc/company/view" />
+		<subMenu>
+			<item>
+				<displayName>Customers</displayName>
+				<path value="/customers/customers.aspx"/>
+			</item>
+			<item>
+				<displayName>Pilots</displayName>
+				<path value="/pilots/pilots.aspx"/>
+			</item>
+			<item>
+				<displayName>Aircraft</displayName>
+				<path value="/aircraft/Aircraft.aspx"/>
+			</item>
+		</subMenu>
+	</item>
+</menu> 
